@@ -7,7 +7,9 @@ print(name)'''
 
 print(name)'''
 
-age=(input("enter your age"))
+'''age=(input("enter your age ="))
 print(age)
 
-print(type(age))
+print(type(age))'''
+
+gfsfhsiuh
